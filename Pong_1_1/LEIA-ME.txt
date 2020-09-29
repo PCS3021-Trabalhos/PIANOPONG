@@ -1,0 +1,17 @@
+*INSTRUÇÕES PARA JOGAR*
+
+-Para jogar, é necessário importar a biblioteca Minim.
+-Ela é necessária para que o jogo emita sons.
+
+Bom jogo!
+
+PIANOPONG ------------------
+
+Criado por:
+11236852 // Ana Julia Marchi
+9790461  // Gabriel Noda
+11236928 // Jessica Goulart
+718425   // Katarina Miky
+
+Sons:
+Freesound.org // Copyright para uso educacional.
